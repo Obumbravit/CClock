@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry</key>
+	<dict>
+		<key>bundle</key>
+		<string>cclockp</string>
+		<key>cell</key>
+		<string>PSLinkCell</string>
+		<key>detail</key>
+		<string>CkPRootListController</string>
+		<key>icon</key>
+		<string>CClock.png</string>
+		<key>isController</key>
+		<true/>
+		<key>label</key>
+		<string>CClock</string>
+	</dict>
+</dict>
+</plist>
